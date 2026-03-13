@@ -3,4 +3,4 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Go
-- 📫 &nbsp;How to reach me: [@kevin0ops]([https://twitter.com/kevinops_777](https://x.com/kevinopsss7777)) 
+- 📫 &nbsp;How to reach me: [@kevin0ops]([https://x.com/kevinopsss7777](https://x.com/kevinopsss7777)) 
